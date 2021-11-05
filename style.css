@@ -9,18 +9,18 @@ body {
     background-color: #efefef;
 }
 
-.main {
+.headerBox {
     margin: 0 auto;
     text-align: center;
     line-height: 20px;
     padding: 30px;
 }
 
-.main h1 {
+.headerBox h1 {
     font-weight: 400;
 }
 
-.main strong {
+.headerBox strong {
     color: #0e0e0e;
     font-weight: 500;
     margin-bottom: 10px;
@@ -87,7 +87,7 @@ body {
         margin-bottom: 20px;
     }
 
-    .main {
+    .headerBox {
         font-size: 12px;
     }
 }
